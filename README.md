@@ -3,6 +3,10 @@
 
 ## What it is
 
+R.I.P. START button.
+
+I use B for save instead.
+
 **Luma3DS** is a program to patch the system software of (New) Nintendo 3DS handheld consoles "on the fly", adding features (such as per-game language settings and debugging capabilities for developers) and removing restrictions enforced by Nintendo (such as the region lock).
 It also allows you to run unauthorized ("homebrew") content by removing signature checks.
 To use it, you will need a console capable of running homebrew software on the ARM9 processor. We recommend [Plailect's guide](https://3ds.hacks.guide/) for details on how to get your system ready.
